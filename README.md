@@ -59,7 +59,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/vue-dot-js.svg"/> Vue: Pretty initiant
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I want to learn
 
-
+**Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
 <!--
 **hfabio/hfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
