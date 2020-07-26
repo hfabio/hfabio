@@ -25,8 +25,8 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/heltonfabio/)
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> Twitter](https://twitter.com/eofabin/)
-<!-- - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" /> Instagram](https://www.instagram.com/fabiohelton/) -->
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /> Facebook](https://www.facebook.com/heltonfabio/)
+<!-- - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" /> Instagram](https://www.instagram.com/fabiohelton/) -->
 
 ### :+1: What can I work with
 
