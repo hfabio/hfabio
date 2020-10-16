@@ -1,6 +1,7 @@
 ## Hello mate 👋
 ---
 <img src="https://user-images.githubusercontent.com/15989467/96296492-b8e63280-0fc5-11eb-8bff-235741ac5146.png" />
+
 I'm Helton Fábio. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Feira de Santana - Bahia, 25y, I have been studying development since was 12y and acting professionally as full-stack developer and bioinformatician for about 4 years.
 I am interested in traveling around the world as a digital nomad and then in immigrating to Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"/>
 
