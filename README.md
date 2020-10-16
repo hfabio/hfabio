@@ -62,6 +62,16 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I want to learn
 
 **Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
+
+![](https://komarev.com/ghpvc/?username=hfabio&style=flat-square)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfabio&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hfabio&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 <!--
 **hfabio/hfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
