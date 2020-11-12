@@ -17,7 +17,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - [x] - 2 Years as cientific initiation at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
 
-- [x] - Last period in 2y Master degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
+- [x] - Master degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
 
 - [ ] - PhD degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
 
