@@ -17,9 +17,9 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - [x] - 2 Years as cientific initiation at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
 
-- [x] - Master degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
+- [x] - Master degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de Pesquisa Gonçalo Moniz)
 
-- [ ] - PhD degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
+- [ ] - PhD degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de Pesquisa Gonçalo Moniz)
 
 - [x] - Some scientific articles published
 
@@ -48,6 +48,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg"/> MySQL
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg"/> MongoDB
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/apache.svg"/> Apache
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/gnubash.svg"/> Shell scripts
 
 ### 😄 I really like to work on
 - Development with technology focus in general
