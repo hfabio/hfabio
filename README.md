@@ -19,7 +19,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - [x] - Master degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de Pesquisa Gonçalo Moniz)
 
-- [ ] - PhD degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de Pesquisa Gonçalo Moniz)
+- [x] - PhD student in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de Pesquisa Gonçalo Moniz)
 
 - [x] - Some scientific articles published
 
