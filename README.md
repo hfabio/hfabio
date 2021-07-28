@@ -47,8 +47,12 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/node-dot-js.svg"/> Nodejs
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg"/> MySQL
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg"/> MongoDB
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/sqlite.svg"/> SQLite
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/knex.svg"/> Knex
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/apache.svg"/> Apache
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/gnubash.svg"/> Shell scripts
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/docker.svg"/> Docker
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/apollo.svg"/> Apollo-client / Apollo-server
 
 ### 😄 I really like to work on
 - Development with technology focus in general
@@ -59,8 +63,9 @@ Life is a journey, not a competition, let's grow up together :wink:
 ### 🔭 What I'm trying to learn/improve
 
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript: I can work with but I still learning
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I had contact, but I want to improve
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/vue-dot-js.svg"/> Vue: Pretty initiant
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I want to learn
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: I want to learn
 
 **Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
 
