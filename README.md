@@ -15,7 +15,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - [x] - Bachelor graduation in Information System completed at FTC - Faculdade de Tecnologia e Ciências
 
-- [x] - 2 Years as cientific initiation at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
+- [x] - 2 Years as scientific initiation at Fiocruz - CPqGM (Centro de pesquisa Gonçalo Moniz)
 
 - [x] - Master degree in Biotechnology for Health and Investigative Medicine at Fiocruz - CPqGM (Centro de Pesquisa Gonçalo Moniz)
 
