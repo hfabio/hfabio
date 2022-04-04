@@ -32,13 +32,13 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 ### :+1: What can I work with
 
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/java.svg"/> Java
+<!-- - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/java.svg"/> Java -->
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg"/> JavaScript
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/python.svg"/> Python
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/php.svg"/> PHP
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/html5.svg"/> HTML
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/css3.svg"/> CSS
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg"/> JavaScript
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/svelte.svg"/> Svelte
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/redux.svg"/> Redux
