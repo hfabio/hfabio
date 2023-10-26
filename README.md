@@ -37,7 +37,7 @@ I am interested in traveling around the world as a digital nomad and then in imm
 ### :incoming_envelope: Talk to me
 
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/heltonfabio/)
-- [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> Twitter](https://twitter.com/eofabin/)
+<!-- - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> Twitter](https://twitter.com/eofabin/) -->
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /> Facebook](https://www.facebook.com/heltonfabio/)
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" /> Instagram](https://www.instagram.com/fabiohelton/)
 
@@ -74,9 +74,7 @@ I am interested in traveling around the world as a digital nomad and then in imm
 ### 🔭 What I'm trying to learn/improve
 
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript: I can work with but I still learning
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I had contact, but I want to improve
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/vue-dot-js.svg"/> Vue: Pretty initiant
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: I want to learn
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: definitely can improve, but already can work with.
 
 **Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
 
@@ -89,17 +87,3 @@ I am interested in traveling around the world as a digital nomad and then in imm
     </tr>   
 </table>
 </center>  
-<!--
-**hfabio/hfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
