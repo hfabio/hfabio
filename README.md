@@ -36,8 +36,8 @@ I am interested in traveling around the world as a digital nomad and then in imm
 
 ### :incoming_envelope: Talk to me
 
-- [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/heltonfabio/)
 <!-- - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> Twitter](https://twitter.com/eofabin/) -->
+- [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/heltonfabio/)
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /> Facebook](https://www.facebook.com/heltonfabio/)
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" /> Instagram](https://www.instagram.com/fabiohelton/)
 
