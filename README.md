@@ -5,7 +5,7 @@
 <tr><td colspan="2">
 <p>
 <h3>I'm Helton Fábio.</h3>
-<img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Feira de Santana - Bahia, I have been acting professionally as full-stack developer and bioinformatician for about 7 years.
+<img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Feira de Santana - Bahia, I have been acting professionally as full-stack developer and bioinformatician for about 8 years.
 I am interested in traveling around the world as a digital nomad and then in immigrating to Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"/> (But not limited to this country)
 
 <h3>Life is a journey, not a competition, let's grow up together :wink:</h3>
